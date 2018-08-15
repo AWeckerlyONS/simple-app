@@ -1,4 +1,8 @@
+
 # SimpleApp
+
+Hello World project to use for Jenkins tinkering...
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.3.
 
